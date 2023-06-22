@@ -53,4 +53,4 @@ Linear Regression – Utilize variables like date and restructure dates as 1 for
 
 Change dates into days by creating new variable.
 
-# project-
+
